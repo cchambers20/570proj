@@ -5,8 +5,8 @@ Modifications to LSTM models to work with newer versions of Tensorflow <br>
 Modifications to Intraday and Nextday models to deal with infinity large values <br>
 SPXconst.csv file in teh data folder, made using const_creator, constituent_creator, and sp500_by_date file <br>
 <br>
-<br>
 Output files are in the respective results folders
+<br>
 
 # [Forecasting directional movements of stock-prices for intraday trading using LSTM and random-forest](https://arxiv.org/abs/2004.10178)
 

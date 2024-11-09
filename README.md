@@ -3,6 +3,7 @@ Create_stock_data.py file <br>
 Create constituent_creator.py file <br>
 Modifications to LSTM models to work with newer versions of Tensorflow <br>
 Modifications to Intraday and Nextday models to deal with infinity large values <br>
+SPXconst.csv file in teh data folder, made using const_creator, constituent_creator, and sp500_by_date file <br>
 
 
 

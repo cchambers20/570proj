@@ -1,5 +1,5 @@
 ECE 570 Additions:
-Create_stock_data.py file
+Create_stock_data.py file <\b>
 Create constituent_creator.py file
 Modifications to LSTM models to work with newer versions of Tensorflow
 Modifications to Intraday and Nextday models to deal with infinity large values

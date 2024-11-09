@@ -1,3 +1,11 @@
+ECE 570 Additions:
+Create_stock_data.py file
+Create constituent_creator.py file
+Modifications to LSTM models to work with newer versions of Tensorflow
+Modifications to Intraday and Nextday models to deal with infinity large values
+
+
+
 # [Forecasting directional movements of stock-prices for intraday trading using LSTM and random-forest](https://arxiv.org/abs/2004.10178)
 
 **https://arxiv.org/abs/2004.10178** <br>
